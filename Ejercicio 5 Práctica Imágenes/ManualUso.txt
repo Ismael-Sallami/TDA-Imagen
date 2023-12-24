@@ -1,0 +1,31 @@
+NOTA:REPASAR RUTAS RELATIVAS DE LOS SCRIPT POR SI NO FUNCIONAN.
+
+PASOS A SEGUIR PARA GENERAR IMAGENES ALEATORIAS
+(HE ESTABECIDO 5 IMÁGENES CON UN TAMAÑO RANDOM DE ENTRE 100 Y 800, ESTO SE PUEDE CAMBIAR SEGÚN LAS PREFERENCIAS DENTRO DEL SCRIPT) Y CALCULAR LOS DATOS
+ESTRUCTURA:
+TIEMPO TAMAÑO(SIZE())
+
+1.Para poder usar el script generate_images debes de tener instalado en tu máquina el paquete : imagemagick
+	-para ello usamos el comando:
+	sudo apt-get install imagemagick
+	
+2.Dar permisos de ejecución para generar imagenes aleatorias:
+	chmod +x generate_image.sh
+
+3.Ya podemos ejecutarlo con el comando:
+	./generare_image.sh
+	
+4.Damos permisos de ejecución para generar datos:
+	chmod +x generate_datos.sh
+
+5.Ejecutamos:
+	./generate_datos.sh
+
+6.Damos los permisos de ejecución para generar el gráfico de eficiencia empírica:
+	chmod +x generate_datos.sh
+
+7.Ejecutamos:
+	./generate_datos.sh
+	
+
+
