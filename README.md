@@ -109,7 +109,7 @@ Esta funcion se encarga de calcular la subimagen a partir de el objeto imagen y 
 básicamente se encarga de recortar dicha imagen.
 
 ![](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/image_use/Zoom.png)
-##Zoom:
+## Zoom:
 
 Se encarga de hacer zoom2x a una imagen.
 > __zoom__ <FichImagenOriginal\> \<FichImagenDestino\>
@@ -121,10 +121,8 @@ Se encarga de hacer zoom2x a una imagen.
 Esta función trata de hacer el zoom2x de una determinada foto, y para ello tiene 2 partes, primero se centra en las columnas y posteriormente
 en las filas, de esta manera el algoritmo es má legible y de forma más estructurada.
 
-#AUTHOR
-
-![](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/image_use/Ismael_sallami.png)
-
+# AUTHOR
+> ISMAEL SALLAMI MORENO
 
 
 
